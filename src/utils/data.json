@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Levantar",
+    "magnitude": 5
+  },
+  {
+    "name": "Sentar",
+    "magnitude": 4
+  },
+  {
+    "name": "Lucca Chorando",
+    "magnitude": 10
+  },
+  {
+    "name": "Dar de mamar",
+    "magnitude": 10
+  },
+  {
+    "name": "Água",
+    "magnitude": 5
+  },
+  {
+    "name": "Suco",
+    "magnitude": 3
+  },
+  {
+    "name": "Fruta",
+    "magnitude": 5
+  },
+  {
+    "name": "Fome",
+    "magnitude": 7
+  },
+  {
+    "name": "Carregador",
+    "magnitude": 2
+  },
+  {
+    "name": "Quero só vc!",
+    "magnitude": 10
+  },
+  {
+    "name": "Fralda",
+    "magnitude": 8
+  }
+]
